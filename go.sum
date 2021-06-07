@@ -1,2 +1,4 @@
 github.com/Dukenbayev/execute_library v0.0.0-20210606123508-7d08f518c0a2 h1:kuI7A2rXwOOW7E94SsxEMQyPUAHRIG91qvMPuuKb5HI=
 github.com/Dukenbayev/execute_library v0.0.0-20210606123508-7d08f518c0a2/go.mod h1:Ff9nQYYLQzwstZXuje5myZTDrfdpmlmEsyxevEwt8HU=
+github.com/Dukenbayev/execute_library v1.0.0 h1:/h5bJRtfLCAbtluzS87eMfr8VpGxRmvWBC4e3Zx42K4=
+github.com/Dukenbayev/execute_library v1.0.0/go.mod h1:+FgZ8hqRn8DtYfwjaDBOn/UT1V8mrN+5ve8qWQ1blRE=

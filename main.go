@@ -1,9 +1,14 @@
 package main
 
 import (
+	"fmt"
 	"github.com/Dukenbayev/execute_library"
+	"strings"
 )
+
 func main()  {
-	execute_library.Sum(1,2)
+
+	fmt.Println(execute_library.Sum(1,2))
+	fmt.Println( strings.ToUpper("teseESt"))
 }
 
