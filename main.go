@@ -1,8 +1,7 @@
 package main
 
 import (
-	"execute_library"
-	"github.com/Dukenbayev/execute_library.git"
+	"github.com/Dukenbayev/execute_library"
 )
 func main()  {
 	execute_library.Sum(1,2)
