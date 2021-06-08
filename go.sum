@@ -4,3 +4,7 @@ github.com/Dukenbayev/execute_library v1.0.0 h1:/h5bJRtfLCAbtluzS87eMfr8VpGxRmvW
 github.com/Dukenbayev/execute_library v1.0.0/go.mod h1:+FgZ8hqRn8DtYfwjaDBOn/UT1V8mrN+5ve8qWQ1blRE=
 github.com/Dukenbayev/execute_library v1.0.1 h1:VBi4iIj6suhCJOTATyrTeZtXH6MKgyCQWgCuqk3JXqI=
 github.com/Dukenbayev/execute_library v1.0.1/go.mod h1:+FgZ8hqRn8DtYfwjaDBOn/UT1V8mrN+5ve8qWQ1blRE=
+github.com/Dukenbayev/execute_library v1.0.2 h1:5GcuJm3jskZ5B0F6MNgtBGYnGzLGpYXHSvN1cHsskqw=
+github.com/Dukenbayev/execute_library v1.0.2/go.mod h1:nhjZ8ltSHBcfFgUwdf0YN2cKYDf/qL0AA+hgH7aTzd8=
+github.com/jakehl/goid v1.1.0 h1:c08GO8z16wWJtfQhyiD8BQRFkpf1oDxaPmA+uYAG+50=
+github.com/jakehl/goid v1.1.0/go.mod h1:V6bQh+tr2Oay5WHL0jmTTJWrABYIO+cs4/P6e1prV1o=
